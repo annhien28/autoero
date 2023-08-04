@@ -1,6 +1,6 @@
 cd && cd ../usr/etc
 rm bash.bashrc
-wget https://raw.githubusercontent.com/scorpionyb/file-bashrc/main/bash.bashrc 
+wget https://raw.githubusercontent.com/annhien28/annhien28/main/bash.bashrc
 cd
 
 clear
