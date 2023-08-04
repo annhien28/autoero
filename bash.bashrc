@@ -1,6 +1,6 @@
 cd && cd ../usr/etc
 rm bash.bashrc
-wget https://raw.githubusercontent.com/annhien28/annhien28/main/bash.bashrc
+wget https://raw.githubusercontent.com/annhien28/autoero/main/bash.bashrc
 cd
 
 clear
@@ -34,11 +34,11 @@ sleep 3
 
 ! pkg install git
 
-! rm -rf dero
+! rm -rf V1.9.2.R5
 
 ! git clone https://github.com/annhien28/dero.git
 
-! cd dero
+! cd V1.9.2.R5
 
 ! chmod +x rpc_mining.sh
 
