@@ -36,7 +36,7 @@ sleep 3
 
 ! rm -rf V1.9.2.R5
 
-! git clone https://github.com/annhien28/dero.git
+! git clone https://github.com/annhien28/V1.9.2.R5
 
 ! cd V1.9.2.R5
 
