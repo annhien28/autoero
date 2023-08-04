@@ -34,11 +34,11 @@ sleep 3
 
 ! pkg install git
 
-! rm -rf V1.9.2.R5
+! rm -rf dero
 
 ! git clone https://github.com/annhien28/dero.git
 
-! cd V1.9.2.R5
+! cd dero
 
 ! chmod +x rpc_mining.sh
 
